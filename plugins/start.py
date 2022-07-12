@@ -21,7 +21,7 @@ async def start(client, message):
            InlineKeyboardButton("👼 ᴅᴇᴠᴇʟᴏᴘᴇʀ 👼", callback_data='dev')
            ],[
            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs 📢', url='https://t.me/MalluBotsYT'),
-           InlineKeyboardButton('♻️ ᴄʜᴀɴɴᴇʟ ♻️', url='https://t.me/MalluHubYT')
+           InlineKeyboardButton('♻️ sᴜᴘᴘᴏʀᴛ ♻️', url='https://t.me/MalluBotsGP')
            ],[
            InlineKeyboardButton('💫 ᴀʙᴏᴜᴛ 💫', callback_data='about'),
            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help')
@@ -53,7 +53,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton("👼 ᴅᴇᴠᴇʟᴏᴘᴇʀ 👼", callback_data='dev')                
                 ],[
                 InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇs 📢', url='https://t.me/MalluBotsYT'),
-                InlineKeyboardButton('♻️ ᴄʜᴀɴɴᴇʟ ♻️', url='https://t.me/MalluHubYT')
+                InlineKeyboardButton('♻️ sᴜᴘᴘᴏʀᴛ ♻️', url='https://t.me/MalluBotsGP')
                 ],[
                 InlineKeyboardButton('💫 ᴀʙᴏᴜᴛ 💫', callback_data='about'),
                 InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help')
