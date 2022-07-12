@@ -6,7 +6,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/PbAjay/MrRenamerBot",
+    "repository": "https://github.com/MalluBotsYT/MrRenamerBot",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
