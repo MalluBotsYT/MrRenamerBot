@@ -12,7 +12,7 @@ Telegram File Renamer Bot
 
 ### DEPLOYEMENT SUPPORT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PbAjay/MrRenamerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MalluBotsYT/MrRenamerBot)
 
 ## Configs 
 
