@@ -41,7 +41,7 @@ class mr(object):
 <b><u>ᴅᴇᴠᴇʟᴏᴘᴇʀs</b></u> 
 
 » ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/MalluBotsYT>ᴍᴀʟʟᴜʙᴏᴛsʏᴛ</a>
-» sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/MalluBotsGP>ᴍᴀʟʟᴜʙᴏᴛsɢᴘ
+» sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/MalluBotsGP>ᴍᴀʟʟᴜʙᴏᴛsɢᴘ</a>
 
 • ❣️ <a href=https://t.me/Crude_X>ᴄʀᴜᴅᴇ_x</a>
 • ❣️ <a href=https://t.me/Bea_s_t2>ʙᴇᴀsᴛ</a>
