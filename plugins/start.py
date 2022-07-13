@@ -66,7 +66,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs 📢", url="https://t.me/MalluBotsYT")
+               InlineKeyboardButton("♻️ sᴜᴘᴘᴏʀᴛ ♻️", url="https://t.me/MalluBotsGP")
                ],[
                InlineKeyboardButton("◀️ ʙᴀᴄᴋ ◀️", callback_data = "start"),
                InlineKeyboardButton("🔒 ᴄʟᴏsᴇ 🔒", callback_data = "close")
@@ -79,7 +79,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs 📢", url="https://t.me/MalluBotsYT")
+               InlineKeyboardButton("😊 sᴏᴜʀᴄᴇ 😊", url="https://github.com/MalluBotsYT/MrRenamerBot")
                ],[
                InlineKeyboardButton("◀️ ʙᴀᴄᴋ ◀️", callback_data = "start"),
                InlineKeyboardButton("🔒 ᴄʟᴏsᴇ 🔒", callback_data = "close")
